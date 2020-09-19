@@ -1,0 +1,45 @@
+<map id="JKQTPGraphFillStyleMixin" name="JKQTPGraphFillStyleMixin">
+<area shape="rect" id="node1" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph filling ..." alt="" coords="5,439,224,468"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_bar_graph_base.html" title="This is a base&#45;class for all bar graphs with vertical or horizontal orientation (the orientation is i..." alt="" coords="308,140,495,169"/>
+<area shape="rect" id="node9" href="$class_j_k_q_t_p_geo_base_filled.html" title="This JKQTPPlotObject is used as base class for geometric drawing elements that only consist of lines ..." alt="" coords="311,256,492,285"/>
+<area shape="rect" id="node15" href="$class_j_k_q_t_p_graph_boxplot_style_mixin.html" title="Styling Mix&#45;In for Boxplots." alt="" coords="272,363,531,392"/>
+<area shape="rect" id="node20" href="$class_j_k_q_t_p_graph_line_and_fill_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line and..." alt="" coords="280,523,523,570"/>
+<area shape="rect" id="node38" href="$class_j_k_q_t_p_graph_violinplot_style_mixin.html" title="Styling Mix&#45;In for Violinplots." alt="" coords="286,647,517,694"/>
+<area shape="rect" id="node41" href="$class_j_k_q_t_p_range_base.html" title="simply marks a range (and possibly a centerline) in a plot. This may be used to display e...." alt="" coords="321,803,481,832"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_bar_horizontal_graph.html" title="This implements a bar graph with bars starting at &#160;to ." alt="" coords="599,68,827,97"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_bar_vertical_graph.html" title="This implements a bar graph with bars starting at &#160;to ." alt="" coords="610,140,817,169"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_bar_horizontal_error_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicator." alt="" coords="919,5,1185,35"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_bar_horizontal_stackable_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;Optionally several graphs of this type may be ..." alt="" coords="923,59,1181,106"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_bar_vertical_error_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicator." alt="" coords="929,131,1175,160"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_p_bar_vertical_stackable_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;Optionally several graphs of this type may be ..." alt="" coords="934,185,1170,231"/>
+<area shape="rect" id="node10" href="$class_j_k_q_t_p_geo_polygon.html" title="This JKQTPPlotObject is used to draw a polygon." alt="" coords="631,203,795,232"/>
+<area shape="rect" id="node11" href="$class_j_k_q_t_p_geo_rectangle.html" title="This JKQTPPlotObject is used to draw a rectangle." alt="" coords="623,256,804,285"/>
+<area shape="rect" id="node12" href="$class_j_k_q_t_p_geo_ellipse.html" title="This JKQTPPlotObject is used to draw an ellipse." alt="" coords="976,256,1128,285"/>
+<area shape="rect" id="node13" href="$class_j_k_q_t_p_geo_pie.html" title="This JKQTPPlotObject is used to draw a pie." alt="" coords="1321,256,1447,285"/>
+<area shape="rect" id="node14" href="$class_j_k_q_t_p_geo_chord.html" title="This JKQTPPlotObject is used to draw a chord." alt="" coords="1560,256,1709,285"/>
+<area shape="rect" id="node16" href="$class_j_k_q_t_p_boxplot_vertical_element.html" title="This implements a single vertical (notched) boxplot as a &quot;geometric element&quot;, where the data is direc..." alt="" coords="586,309,841,339"/>
+<area shape="rect" id="node18" href="$class_j_k_q_t_p_boxplot_vertical_graph.html" title="This implements vertical boxplots, optionally also a notched boxplot." alt="" coords="594,363,833,392"/>
+<area shape="rect" id="node17" href="$class_j_k_q_t_p_boxplot_horizontal_element.html" title="This implements a horizontal (notched) boxplot where the data is directly given to the object and not..." alt="" coords="914,309,1190,339"/>
+<area shape="rect" id="node19" href="$class_j_k_q_t_p_boxplot_horizontal_graph.html" title="This implements horizontal boxplots, optionally also a notched boxplot." alt="" coords="923,363,1181,392"/>
+<area shape="rect" id="node21" href="$class_j_k_q_t_p_evaluated_function_with_errors_graph_drawing_base.html" title="This class extends JKQTPEvaluatedFunctionWithErrorsGraphBase with functions to draw the graphs and se..." alt="" coords="588,429,839,475"/>
+<area shape="rect" id="node28" href="$class_j_k_q_t_p_filled_curve_graph_base.html" title="a Base class for filled curve graphs like e.g. JKQTPFilledCurveXGraph" alt="" coords="591,500,836,529"/>
+<area shape="rect" id="node33" href="$class_j_k_q_t_p_filled_horizontal_range_graph.html" title="This implements filled curve plots where the area is filled between two data columns for each y&#45;value..." alt="" coords="592,554,835,601"/>
+<area shape="rect" id="node34" href="$class_j_k_q_t_p_filled_vertical_range_graph.html" title="This implements filled curve plots where the area is filled between two data columns for each x&#45;value..." alt="" coords="603,625,824,671"/>
+<area shape="rect" id="node35" href="$class_j_k_q_t_p_special_line_graph_base.html" title="a Base class for special line graphs (steps ...) like e.g. JKQTPSpecialLineHorizontalGraph" alt="" coords="589,696,837,725"/>
+<area shape="rect" id="node22" href="$class_j_k_q_t_p_functor_line_graph_base.html" title="extends JKQTPEvaluatedFunctionWithErrorsGraphDrawingBase with the capabilities to define functions fr..." alt="" coords="927,416,1177,445"/>
+<area shape="rect" id="node25" href="$class_j_k_q_t_p_parsed_function_line_graph_base.html" title="extends JKQTPEvaluatedFunctionWithErrorsGraphDrawingBase with the capabilities to define functions fr..." alt="" coords="896,469,1208,499"/>
+<area shape="rect" id="node23" href="$class_j_k_q_t_p_x_function_line_graph.html" title="This implements line plots where the data is taken from a user supplied function ." alt="" coords="1269,332,1499,361"/>
+<area shape="rect" id="node24" href="$class_j_k_q_t_p_y_function_line_graph.html" title="This implements line plots where the data is taken from a user supplied function ." alt="" coords="1270,385,1498,415"/>
+<area shape="rect" id="node26" href="$class_j_k_q_t_p_x_parsed_function_line_graph.html" title="This implements line plots where the data is taken from a user supplied function &#160;The function is def..." alt="" coords="1267,439,1501,486"/>
+<area shape="rect" id="node27" href="$class_j_k_q_t_p_y_parsed_function_line_graph.html" title="This implements line plots where the data is taken from a user supplied function &#160;The function is def..." alt="" coords="1267,510,1501,557"/>
+<area shape="rect" id="node29" href="$class_j_k_q_t_p_filled_curve_x_graph.html" title="This implements filled curve plots where the area is filled between the plot line and the x&#45;Axis." alt="" coords="943,523,1161,552"/>
+<area shape="rect" id="node31" href="$class_j_k_q_t_p_filled_curve_y_graph.html" title="This implements filled curve plots where the area is filled between the plot line and y&#45;Axis." alt="" coords="944,576,1160,605"/>
+<area shape="rect" id="node30" href="$class_j_k_q_t_p_filled_curve_x_error_graph.html" title="This implements filled curve plots with y errors where the area is filled between the plot line and t..." alt="" coords="1256,581,1512,611"/>
+<area shape="rect" id="node32" href="$class_j_k_q_t_p_filled_curve_y_error_graph.html" title="This implements filled curve plots with y errors where the area is filled between the plot line and t..." alt="" coords="1257,635,1511,664"/>
+<area shape="rect" id="node36" href="$class_j_k_q_t_p_special_line_horizontal_graph.html" title="This implements a step plot with values ." alt="" coords="931,630,1173,677"/>
+<area shape="rect" id="node37" href="$class_j_k_q_t_p_special_line_vertical_graph.html" title="This implements a step plot with values ." alt="" coords="942,701,1162,747"/>
+<area shape="rect" id="node39" href="$class_j_k_q_t_p_violinplot_vertical_element.html" title="This implements a single vertical Violin Plot as a &quot;geometric element&quot;." alt="" coords="579,749,848,779"/>
+<area shape="rect" id="node40" href="$class_j_k_q_t_p_violinplot_horizontal_element.html" title="This implements a single horizontal Violin Plot as a &quot;geometric element&quot;." alt="" coords="940,771,1164,818"/>
+<area shape="rect" id="node42" href="$class_j_k_q_t_p_horizontal_range.html" title="simply marks a range (and possibly a centerline) in a plot. This may be used to display e...." alt="" coords="612,803,815,832"/>
+<area shape="rect" id="node43" href="$class_j_k_q_t_p_vertical_range.html" title="simply marks a range (and possibly a centerline) in a plot. This may be used to display e...." alt="" coords="623,856,804,885"/>
+</map>
